@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/osmanjajja/the-next-trip-backend/issues"
   },
-  "homepage": "https://github.com/osmanjajja/the-next-trip-backend#readme"
+  "homepage": "https://github.com/osmanjajja/the-next-trip-backend#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
 }
