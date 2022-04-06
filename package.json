@@ -1,0 +1,23 @@
+{
+  "name": "the-next-trip-backend",
+  "version": "1.0.0",
+  "description": "Backend for tour's site in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmanjajja/the-next-trip-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tourplanner"
+  ],
+  "author": "osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmanjajja/the-next-trip-backend/issues"
+  },
+  "homepage": "https://github.com/osmanjajja/the-next-trip-backend#readme"
+}
